@@ -5,6 +5,9 @@
 
 ![AI对话机器人界面](docs/ui_screenshot.png)
 
+## 学习培训
+
+![培训结课证书](docs/ca.jpg)
 
 ## 项目概述
 
