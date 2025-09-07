@@ -21,7 +21,6 @@
 
 ### 前端
 - **框架**: Next.js 14 + TypeScript
-- **UI库**: 官方[NeMo-Agent-Toolkit-UI](https://github.com/NVIDIA/NeMo-Agent-Toolkit-UI)
 - **特性**: 实时聊天、主题切换、历史记录
 
 ### 后端
@@ -49,5 +48,11 @@
 - ✅ **生产级质量**: 包含完整的错误处理、日志记录和监控
 - ✅ **易于扩展**: 模块化设计，支持快速添加新功能
 - ✅ **跨平台支持**: 一套代码，多平台运行
+
+### 视频演示
+
+https://github.com/user-attachments/assets/aabb8d86-01c2-4f3d-adab-2f3bd6efb943
+
+
 
 
