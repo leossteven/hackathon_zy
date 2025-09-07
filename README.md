@@ -24,7 +24,7 @@
 - **特性**: 实时聊天、主题切换、历史记录
 
 ### 后端
-- **核心**: [NVIDIA NeMo Agent Toolkit (AIQ)](https://github.com/NVIDIA/NeMo-Agent-Toolkit/tree/develop)
+- **核心**: [NVIDIA NeMo Agent Toolkit (AIQ)]
 - **工作流**: React Agent
 - **工具**: Tavily搜索、时间查询
 
@@ -50,11 +50,7 @@
 - ✅ **跨平台支持**: 一套代码，多平台运行
 
 ### 视频演示
-
-
-
-
-https://github.com/user-attachments/assets/b16de21d-6a9e-4f5e-805b-2b789ae94b39
+https://www.bilibili.com/video/BV1NvYLznEPT/?vd_source=528985482ddde4cb7578468e9c832fe6
 
 
 
