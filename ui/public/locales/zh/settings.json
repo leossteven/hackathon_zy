@@ -1,0 +1,11 @@
+{
+  "Settings": "设置",
+  "Theme": "主题",
+  "Dark mode": "深色模式",
+  "Light mode": "浅色模式",
+  "HTTP URL for Chat Completion": "聊天完成的HTTP URL",
+  "WebSocket URL for Chat Completion": "聊天完成的WebSocket URL",
+  "WebSocket Schema": "WebSocket架构",
+  "Cancel": "取消",
+  "Save": "保存"
+}

@@ -1,0 +1,16 @@
+{
+  "New Conversation": "新对话",
+  "Thinking...": "思考中...",
+  "WebSocket": "WebSocket",
+  "WebSocket URL for Chat Completion": "聊天完成的WebSocket URL",
+  "WebSocket Schema": "WebSocket架构",
+  "Something went wrong. Please try again.": "出错了，请重试。",
+  "Please set a valid WebSocket server in settings": "请在设置中配置有效的WebSocket服务器",
+  "WebSocket is not connected, trying to connect...": "WebSocket未连接，正在尝试连接...",
+  "Connected to": "已连接到",
+  "WebSocket connection failed.": "WebSocket连接失败。",
+  "Retrying connection... Attempt": "正在重试连接... 尝试",
+  "WebSocket connection error": "WebSocket连接错误",
+  "WebSocket connected successfully!, Resend the query": "WebSocket连接成功！重新发送查询",
+  "WebSocket connection failed after retries.": "重试后WebSocket连接仍然失败。"
+}
